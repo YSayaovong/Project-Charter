@@ -4,7 +4,7 @@
 This repository contains the Project Charter for Project Sushi Train. The charter outlines the objectives, scope, deliverables, stakeholders, and overall structure of the project to ensure all participants are aligned with the project goals.
 
 ## Contents
-- **Project Charter Document**: [Link to the document](https://github.com/YSayaovong/Project-Charter))
+- **Project Charter Document**: [Link to the document](https://github.com/YSayaovong/Project-Charter)
 
 ## Purpose
 The purpose of this project is to create a formalized document that defines:
